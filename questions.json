@@ -1,0 +1,17 @@
+[
+    {
+        "word": "Cachorro",
+        "correctAnswer": "Dog",
+        "options": ["Gato", "Cachorro", "Dog", "Cavalo", "Peixe"]
+    },
+    {
+        "word": "Bola",
+        "correctAnswer": "Ball",
+        "options": ["Ball", "Cadeira", "Lápis", "Carro", "Livro"]
+    },
+    {
+        "word": "Casa",
+        "correctAnswer": "House",
+        "options": ["Árvore", "House", "Casa", "Sol", "Chave"]
+    }
+]
