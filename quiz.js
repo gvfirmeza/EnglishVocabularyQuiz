@@ -33,6 +33,7 @@ function checkAnswer(button, selectedAnswer, correctAnswer) {
         button.classList.remove('btn-primary');
         button.classList.add('btn-success');
         totalCorrect++; // Incrementar o número total de respostas corretas
+        document.getElementById('correctSound').play(); // Reproduzir som de resposta correta
     } else {
         button.classList.remove('btn-primary');
         button.classList.add('btn-danger');
@@ -43,6 +44,7 @@ function checkAnswer(button, selectedAnswer, correctAnswer) {
                 btn.classList.add('btn-success');
             }
         });
+        document.getElementById('incorrectSound').play(); // Reproduzir som de resposta incorreta
     }
 
     // Exibir botão de próxima pergunta após um curto período

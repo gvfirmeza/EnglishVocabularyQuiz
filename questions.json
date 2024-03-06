@@ -1,17 +1,52 @@
 [
     {
-        "word": "Cachorro",
-        "correctAnswer": "Dog",
-        "options": ["Gato", "Cachorro", "Dog", "Cavalo", "Peixe"]
+        "word": "Rabo de cavalo",
+        "correctAnswer": "Ponytail",
+        "options": ["Hairtail", "Horse", "Tail", "Ponytail", "Headtail"]
     },
     {
-        "word": "Bola",
-        "correctAnswer": "Ball",
-        "options": ["Ball", "Cadeira", "Lápis", "Carro", "Livro"]
+        "word": "Maçaneta",
+        "correctAnswer": "Doorknob",
+        "options": ["Door Opener", "Doorknob", "Lock", "Window", "Apple Neet"]
     },
     {
-        "word": "Casa",
-        "correctAnswer": "House",
-        "options": ["Árvore", "House", "Casa", "Sol", "Chave"]
+        "word": "Semáforo",
+        "correctAnswer": "Traffic light",
+        "options": ["Traffic light", "Street Lamp", "Car Lights", "Street Signs", "Sign"]
+    },
+    {
+        "word": "Guarda-chuva",
+        "correctAnswer": "Umbrella",
+        "options": ["Umbrella", "Raincoat", "Hat", "Shoe", "Glove"]
+    },
+    {
+        "word": "Lanterna",
+        "correctAnswer": "Flashlight",
+        "options": ["Light", "Torch", "Flashlight", "Candle", "Battery"]
+    },
+    {
+        "word": "Chiclete",
+        "correctAnswer": "Chewing gum",
+        "options": ["Candy", "Bubble candy", "Chewing gum", "Chocolate", "Lollipop"]
+    },
+    {
+        "word": "Abacaxi",
+        "correctAnswer": "Pineapple",
+        "options": ["Peach", "Apple", "Banana", "Grape", "Pineapple"]
+    },
+    {
+        "word": "Esquilo",
+        "correctAnswer": "Squirrel",
+        "options": ["Squirrel", "Mouse", "Rabbit", "Chipmunk", "Rat"]
+    },
+    {
+        "word": "Alicate",
+        "correctAnswer": "Pliers",
+        "options": ["Hammer", "Screwdriver", "Wrench", "Pliers", "Scissors"]
+    },
+    {
+        "word": "Corrimão",
+        "correctAnswer": "Handrail",
+        "options": ["Fence", "Gate", "Ladder", "Handrail", "Staircase"]
     }
 ]
