@@ -23,7 +23,7 @@ function showQuestion(question) {
         const button = document.createElement('button');
         button.textContent = option;
         button.addEventListener('click', () => checkAnswer(button, option, question.correctAnswer));
-        button.classList.add('btn', 'btn-primary', 'mx-1'); // Adicionar classe Bootstrap padrão
+        button.classList.add('btn', 'btn-primary', 'm-1'); // Adicionar classe Bootstrap padrão
         optionsElement.appendChild(button);
     });
 }

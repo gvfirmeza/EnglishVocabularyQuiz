@@ -1,8 +1,5 @@
 .page {
     font-family: "Inter";
-    background-color: rgb(14, 17, 23);
-    color:white;
-    display: flex;
-    justify-content: center;
     font-weight: 500;
+    margin-top: 10em;
 }
